@@ -1,7 +1,2 @@
-# hello-world
-echo "# hello-world" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/58733511/hello-world.git
-git push -u origin master
+# Wang LeiChen
+master student in KIT
